@@ -2,9 +2,8 @@ package com.lovecws.scalalearn
 
 /**
   * @author babymm
-  * @version 1.0-SNAPSHOT
-  * @Description: scala初探
-  * @date 2018-07-04 22:59
+  * @todo scala初探
+  * @note 2018-07-04 22:59
   */
 class HelloWorldScala {
 
